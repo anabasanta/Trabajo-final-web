@@ -1,0 +1,221 @@
+body {
+	max-width:1500px;
+	width:90%;
+	height: 1000%;
+	margin-left: 7%;
+}
+.bodycontact {
+	max-width:1500px;
+	width:90%;
+	height: 1000%;
+	margin-left: 7%;
+	background: url(../img/backgroundcontact.png) no-repeat;
+}
+nav{
+	padding: 0%;
+	padding-right:1%;
+}
+ul{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	margin-left:35%;
+	margin-right: 15%;
+}
+hr{
+	padding: 0.5%;
+	background-color:#11AFD3;
+	margin-left: 5%;
+	margin-right: 8%;
+	margin-bottom: -2%;
+}
+a {
+	text-decoration: none;
+	color:#FFA300;
+	font-family: fredoka one;
+}
+li {
+	display: flex;
+	font-size: 2em;
+	padding: 2%;
+	font-family: avenir;
+
+}
+li:hover {
+	background-color: #11AFD3;
+	}
+.logo {
+	margin-bottom: -6%;
+	width: 15%;
+	margin-left: 8%;
+}
+.row {
+	margin-left: 8%;
+	display:flex;
+	padding: 1%;
+	margin-right: 8%;
+}
+.column-1, .column-2 {
+    border-radius: 25px;
+	flex:1;
+	padding: 2%;
+	margin: 0.1%;
+	border-radius: 5%;
+	width: 30%;
+}
+
+.homeimg1 {
+	width:100%;
+	display: flex;
+	flex-direction: row;
+	margin-left: 0%;
+	justify-content: space-around;
+}
+
+.homeimg2 {
+	margin-top: 15%;
+	width:100%;
+	display: flex;
+	flex-direction: row;
+	margin-left: 8%;
+	justify-content: space-around;
+	border-radius: 5%;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+}
+.buttonshop {
+	position: absolute;
+	font-size: 1.2em;
+	top:69%;
+	width: 4%;
+	margin-left:18%;
+	background: none;
+	border-style: none;
+	background-color: #2FA6C1;
+	color: white;
+	font-family: comfortaa;
+	border-radius: 15%;
+}
+.buttonshop2 {
+	position: absolute;
+	font-size: 1.2em;
+	top:143%;
+	width: 4%;
+	margin-left:18%;
+	background: none;
+	border-style: none;
+	background-color: #2FA6C1;
+	color: white;
+	font-family: comfortaa;
+	border-radius: 15%;
+
+}
+
+
+.h2shop {
+	font-weight: bold;
+	padding: 4%;
+	font-family: fredoka one;
+	font-size: 1.7em;
+	margin-left: 8%;
+	margin-top: 3%; 
+}
+.paragraphshop {
+	margin-left: 10%;
+	line-height: 200%;
+	margin-bottom: -20%;
+
+}
+.paragraphthebeaner {
+	line-height: 200%;
+}
+p
+	{font-family: avenir;
+	text-align: justify;
+	line-height: 150%;
+	}
+.buttonhome {
+	position: absolute;
+	font-size: 2.5em;
+	top:35%;
+	width: 10%;
+	padding:0.2%;
+	margin-left:4%;
+	background: none;
+	border-style: none;
+	background: #2FA6C1;
+	border-radius: 5%;
+	color:white;
+
+}
+.buttonhome12 {
+	position: absolute;
+	font-size: 2.5em;
+	top:35%;
+	width: 6%;
+	padding:0.2%;
+	margin-left:4%;
+	background: none;
+	border-style: none;
+	background: #2FA6C1;
+	border-radius: 5%;
+	color:white;
+
+}
+.buttonhome2 {
+	position: absolute;
+	font-size: 2.5em;
+	top:147%;
+	width: 6%;
+	padding:0.2%;
+	margin-left:59%;
+	background: none;
+	border-style: none;
+	background-color: #2FA6C1;
+	color: white;
+
+}
+.aindex {
+	text-decoration: none;
+	color:white;
+	font-family: comfortaa;
+	font-weight: bold;
+
+
+}
+.row2 {
+	display:flex;
+	padding: 1%;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+.thebeanerh2 {
+	font-family: fredoka one;
+	font-size: 2.5em;
+	padding:2%;
+	margin-bottom: 5%;
+}
+.contactp {
+	font-family: comfortaa;
+	font-size: 1.5em;
+	margin-right: 8%;
+	margin-left: 8%;
+}
+footer{
+	margin-top:5%;
+	font-family: fredoka one;
+	font-size: 1em;
+}
+.thankyouh1 {
+	font-size: 5em;
+	font-family: fredoka one;
+	margin-top: 15%;
+	margin-left:12%;
+	color: #2FA6C1;
+
+}
+
