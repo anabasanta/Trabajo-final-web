@@ -70,6 +70,7 @@ li:hover {
 	flex-direction: row;
 	margin-left: 0%;
 	justify-content: space-around;
+	border-radius: 5%;
 }
 
 .homeimg2 {
@@ -89,7 +90,7 @@ footer {
 .buttonshop {
 	position: absolute;
 	font-size: 1.2em;
-	top:69%;
+	top:65%;
 	width: 4%;
 	margin-left:18%;
 	background: none;
@@ -102,7 +103,7 @@ footer {
 .buttonshop2 {
 	position: absolute;
 	font-size: 1.2em;
-	top:143%;
+	top:136%;
 	width: 4%;
 	margin-left:18%;
 	background: none;
@@ -199,7 +200,7 @@ p
 	padding:2%;
 	margin-bottom: 5%;
 }
-.contactp {
+.contacto {
 	font-family: comfortaa;
 	font-size: 1.5em;
 	margin-right: 8%;
