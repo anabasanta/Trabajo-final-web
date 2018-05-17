@@ -31,7 +31,7 @@ hr{
 }
 a {
 	text-decoration: none;
-	color:#FFA300;
+	color:#F7B03E;
 	font-family: fredoka one;
 }
 li {
@@ -114,6 +114,12 @@ footer {
 	border-radius: 15%;
 
 }
+.buttonshop2:hover {
+	background-color: #F7B03E;
+	}
+.buttonshop:hover {
+	background-color: #F7B03E;
+	}
 
 
 .h2shop {
@@ -137,6 +143,15 @@ p
 	{font-family: avenir;
 	text-align: justify;
 	line-height: 150%;
+	}
+.buttonhome:hover {
+	background-color: #F7B03E;
+	}
+.buttonhome12:hover {
+	background-color: #F7B03E;
+	}
+.buttonhome2:hover {
+	background-color: #F7B03E;
 	}
 .buttonhome {
 	position: absolute;
